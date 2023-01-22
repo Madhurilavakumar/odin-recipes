@@ -1,0 +1,19 @@
+body{
+    background-color: #FAF9F6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+}
+.recipe{
+    display: inline-block;
+    height: 100px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 180px;
+    margin-right: 20px;
+}
