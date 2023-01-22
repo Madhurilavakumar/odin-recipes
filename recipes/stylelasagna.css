@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 40px;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+.lasagna-img{
+    display: block;
+    margin-top: 30px;
+    margin-left: 370px;
+}
+.lasagna-recipe{
+    background-color: #FAF9F6;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+.lasagna-img,.lasagna-recipe{
+    display: inline-block;
+}
+.lasagna-content{
+    margin: 40px;
+}
+    
